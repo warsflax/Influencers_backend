@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "gASlZQLHdMM=",
+  "dgSpecHash": "6UqY3sIUjJU=",
   "success": true,
-  "projectFilePath": "D:\\Area_51\\Formation\\ANGULAR\\WebSite Project\\husshussAPIBack\\husshussAPIBack.csproj",
+  "projectFilePath": "D:\\Area_51\\Business\\Influenceur Project\\Influencers_backend\\husshussAPIBack\\husshussAPIBack.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\hussa\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",
     "C:\\Users\\hussa\\.nuget\\packages\\microsoft.aspnetcore.openapi\\9.0.0-rc.2.24474.3\\microsoft.aspnetcore.openapi.9.0.0-rc.2.24474.3.nupkg.sha512",

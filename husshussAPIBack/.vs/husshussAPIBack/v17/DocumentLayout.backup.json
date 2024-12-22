@@ -1,33 +1,37 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\Area_51\\Formation\\ANGULAR\\WebSite Project\\husshussAPIBack\\",
+  "WorkspaceRootPath": "D:\\Area_51\\Formation\\ANGULAR\\WebSite Project\\Influencers_backend\\husshussAPIBack\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{16E8D6A2-2432-4369-84E0-CC1CEA5ADA23}|husshussAPIBack.csproj|d:\\area_51\\formation\\angular\\website project\\husshussapiback\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{16E8D6A2-2432-4369-84E0-CC1CEA5ADA23}|husshussAPIBack.csproj|d:\\area_51\\formation\\angular\\website project\\influencers_backend\\husshussapiback\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{16E8D6A2-2432-4369-84E0-CC1CEA5ADA23}|husshussAPIBack.csproj|solutionrelative:controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{16E8D6A2-2432-4369-84E0-CC1CEA5ADA23}|husshussAPIBack.csproj|d:\\area_51\\formation\\angular\\website project\\husshussapiback\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{16E8D6A2-2432-4369-84E0-CC1CEA5ADA23}|husshussAPIBack.csproj|d:\\area_51\\formation\\angular\\website project\\influencers_backend\\husshussapiback\\models\\sponsors.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{16E8D6A2-2432-4369-84E0-CC1CEA5ADA23}|husshussAPIBack.csproj|solutionrelative:models\\sponsors.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16E8D6A2-2432-4369-84E0-CC1CEA5ADA23}|husshussAPIBack.csproj|d:\\area_51\\formation\\angular\\website project\\influencers_backend\\husshussapiback\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{16E8D6A2-2432-4369-84E0-CC1CEA5ADA23}|husshussAPIBack.csproj|solutionrelative:models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{16E8D6A2-2432-4369-84E0-CC1CEA5ADA23}|husshussAPIBack.csproj|d:\\area_51\\formation\\angular\\website project\\husshussapiback\\models\\loginrequest .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{16E8D6A2-2432-4369-84E0-CC1CEA5ADA23}|husshussAPIBack.csproj|d:\\area_51\\formation\\angular\\website project\\influencers_backend\\husshussapiback\\models\\loginrequest .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{16E8D6A2-2432-4369-84E0-CC1CEA5ADA23}|husshussAPIBack.csproj|solutionrelative:models\\loginrequest .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{16E8D6A2-2432-4369-84E0-CC1CEA5ADA23}|husshussAPIBack.csproj|d:\\area_51\\formation\\angular\\website project\\husshussapiback\\models\\applications.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{16E8D6A2-2432-4369-84E0-CC1CEA5ADA23}|husshussAPIBack.csproj|d:\\area_51\\formation\\angular\\website project\\influencers_backend\\husshussapiback\\models\\applications.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{16E8D6A2-2432-4369-84E0-CC1CEA5ADA23}|husshussAPIBack.csproj|solutionrelative:models\\applications.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{16E8D6A2-2432-4369-84E0-CC1CEA5ADA23}|husshussAPIBack.csproj|d:\\area_51\\formation\\angular\\website project\\husshussapiback\\models\\influencer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{16E8D6A2-2432-4369-84E0-CC1CEA5ADA23}|husshussAPIBack.csproj|d:\\area_51\\formation\\angular\\website project\\influencers_backend\\husshussapiback\\models\\influencer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{16E8D6A2-2432-4369-84E0-CC1CEA5ADA23}|husshussAPIBack.csproj|solutionrelative:models\\influencer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{16E8D6A2-2432-4369-84E0-CC1CEA5ADA23}|husshussAPIBack.csproj|d:\\area_51\\formation\\angular\\website project\\husshussapiback\\models\\smma.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{16E8D6A2-2432-4369-84E0-CC1CEA5ADA23}|husshussAPIBack.csproj|d:\\area_51\\formation\\angular\\website project\\influencers_backend\\husshussapiback\\models\\smma.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{16E8D6A2-2432-4369-84E0-CC1CEA5ADA23}|husshussAPIBack.csproj|solutionrelative:models\\smma.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{16E8D6A2-2432-4369-84E0-CC1CEA5ADA23}|husshussAPIBack.csproj|d:\\area_51\\formation\\angular\\website project\\husshussapiback\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{16E8D6A2-2432-4369-84E0-CC1CEA5ADA23}|husshussAPIBack.csproj|d:\\area_51\\formation\\angular\\website project\\influencers_backend\\husshussapiback\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{16E8D6A2-2432-4369-84E0-CC1CEA5ADA23}|husshussAPIBack.csproj|solutionrelative:data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -38,99 +42,105 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 7,
+          "SelectedChildIndex": 8,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "LoginRequest .cs",
-              "DocumentMoniker": "D:\\Area_51\\Formation\\ANGULAR\\WebSite Project\\husshussAPIBack\\Models\\LoginRequest .cs",
-              "RelativeDocumentMoniker": "Models\\LoginRequest .cs",
-              "ToolTip": "D:\\Area_51\\Formation\\ANGULAR\\WebSite Project\\husshussAPIBack\\Models\\LoginRequest .cs",
-              "RelativeToolTip": "Models\\LoginRequest .cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-06T10:36:00.235Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Applications.cs",
-              "DocumentMoniker": "D:\\Area_51\\Formation\\ANGULAR\\WebSite Project\\husshussAPIBack\\Models\\Applications.cs",
-              "RelativeDocumentMoniker": "Models\\Applications.cs",
-              "ToolTip": "D:\\Area_51\\Formation\\ANGULAR\\WebSite Project\\husshussAPIBack\\Models\\Applications.cs",
-              "RelativeToolTip": "Models\\Applications.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-06T10:30:20.618Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "SMMA.cs",
-              "DocumentMoniker": "D:\\Area_51\\Formation\\ANGULAR\\WebSite Project\\husshussAPIBack\\Models\\SMMA.cs",
-              "RelativeDocumentMoniker": "Models\\SMMA.cs",
-              "ToolTip": "D:\\Area_51\\Formation\\ANGULAR\\WebSite Project\\husshussAPIBack\\Models\\SMMA.cs",
-              "RelativeToolTip": "Models\\SMMA.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-06T10:28:18.56Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Influencer.cs",
-              "DocumentMoniker": "D:\\Area_51\\Formation\\ANGULAR\\WebSite Project\\husshussAPIBack\\Models\\Influencer.cs",
-              "RelativeDocumentMoniker": "Models\\Influencer.cs",
-              "ToolTip": "D:\\Area_51\\Formation\\ANGULAR\\WebSite Project\\husshussAPIBack\\Models\\Influencer.cs",
-              "RelativeToolTip": "Models\\Influencer.cs",
-              "ViewState": "AgIAAAIAAAAAAAAAAAAAAAoAAAAEAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-06T10:27:21.984Z",
-              "EditorCaption": ""
-            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "AppDBContext.cs",
-              "DocumentMoniker": "D:\\Area_51\\Formation\\ANGULAR\\WebSite Project\\husshussAPIBack\\Data\\AppDBContext.cs",
-              "RelativeDocumentMoniker": "Data\\AppDBContext.cs",
-              "ToolTip": "D:\\Area_51\\Formation\\ANGULAR\\WebSite Project\\husshussAPIBack\\Data\\AppDBContext.cs",
-              "RelativeToolTip": "Data\\AppDBContext.cs",
-              "ViewState": "AgIAACkAAAAAAAAAAAAmwDoAAAA0AAAAAAAAAA==",
+              "DocumentIndex": 1,
+              "Title": "Sponsors.cs",
+              "DocumentMoniker": "D:\\Area_51\\Formation\\ANGULAR\\WebSite Project\\Influencers_backend\\husshussAPIBack\\Models\\Sponsors.cs",
+              "RelativeDocumentMoniker": "Models\\Sponsors.cs",
+              "ToolTip": "D:\\Area_51\\Formation\\ANGULAR\\WebSite Project\\Influencers_backend\\husshussAPIBack\\Models\\Sponsors.cs",
+              "RelativeToolTip": "Models\\Sponsors.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAYAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-06T09:40:53.376Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-06T12:00:01.129Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "User.cs",
-              "DocumentMoniker": "D:\\Area_51\\Formation\\ANGULAR\\WebSite Project\\husshussAPIBack\\Models\\User.cs",
-              "RelativeDocumentMoniker": "Models\\User.cs",
-              "ToolTip": "D:\\Area_51\\Formation\\ANGULAR\\WebSite Project\\husshussAPIBack\\Models\\User.cs",
-              "RelativeToolTip": "Models\\User.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA4AAAAHAAAAAAAAAA==",
+              "DocumentIndex": 3,
+              "Title": "LoginRequest .cs",
+              "DocumentMoniker": "D:\\Area_51\\Formation\\ANGULAR\\WebSite Project\\Influencers_backend\\husshussAPIBack\\Models\\LoginRequest .cs",
+              "RelativeDocumentMoniker": "Models\\LoginRequest .cs",
+              "ToolTip": "D:\\Area_51\\Formation\\ANGULAR\\WebSite Project\\Influencers_backend\\husshussAPIBack\\Models\\LoginRequest .cs",
+              "RelativeToolTip": "Models\\LoginRequest .cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-06T09:15:55.075Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-06T10:36:00.235Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Applications.cs",
+              "DocumentMoniker": "D:\\Area_51\\Formation\\ANGULAR\\WebSite Project\\Influencers_backend\\husshussAPIBack\\Models\\Applications.cs",
+              "RelativeDocumentMoniker": "Models\\Applications.cs",
+              "ToolTip": "D:\\Area_51\\Formation\\ANGULAR\\WebSite Project\\Influencers_backend\\husshussAPIBack\\Models\\Applications.cs",
+              "RelativeToolTip": "Models\\Applications.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-06T10:30:20.618Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "SMMA.cs",
+              "DocumentMoniker": "D:\\Area_51\\Formation\\ANGULAR\\WebSite Project\\Influencers_backend\\husshussAPIBack\\Models\\SMMA.cs",
+              "RelativeDocumentMoniker": "Models\\SMMA.cs",
+              "ToolTip": "D:\\Area_51\\Formation\\ANGULAR\\WebSite Project\\Influencers_backend\\husshussAPIBack\\Models\\SMMA.cs",
+              "RelativeToolTip": "Models\\SMMA.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-06T10:28:18.56Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Influencer.cs",
+              "DocumentMoniker": "D:\\Area_51\\Formation\\ANGULAR\\WebSite Project\\Influencers_backend\\husshussAPIBack\\Models\\Influencer.cs",
+              "RelativeDocumentMoniker": "Models\\Influencer.cs",
+              "ToolTip": "D:\\Area_51\\Formation\\ANGULAR\\WebSite Project\\Influencers_backend\\husshussAPIBack\\Models\\Influencer.cs",
+              "RelativeToolTip": "Models\\Influencer.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAAAAoAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-06T10:27:21.984Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AppDBContext.cs",
+              "DocumentMoniker": "D:\\Area_51\\Formation\\ANGULAR\\WebSite Project\\Influencers_backend\\husshussAPIBack\\Data\\AppDBContext.cs",
+              "RelativeDocumentMoniker": "Data\\AppDBContext.cs",
+              "ToolTip": "D:\\Area_51\\Formation\\ANGULAR\\WebSite Project\\Influencers_backend\\husshussAPIBack\\Data\\AppDBContext.cs",
+              "RelativeToolTip": "Data\\AppDBContext.cs",
+              "ViewState": "AgIAACkAAAAAAAAAAAAmwDoAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-06T09:40:53.376Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "User.cs",
+              "DocumentMoniker": "D:\\Area_51\\Formation\\ANGULAR\\WebSite Project\\Influencers_backend\\husshussAPIBack\\Models\\User.cs",
+              "RelativeDocumentMoniker": "Models\\User.cs",
+              "ToolTip": "D:\\Area_51\\Formation\\ANGULAR\\WebSite Project\\Influencers_backend\\husshussAPIBack\\Models\\User.cs",
+              "RelativeToolTip": "Models\\User.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAwAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-06T09:15:55.075Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "UserController.cs",
-              "DocumentMoniker": "D:\\Area_51\\Formation\\ANGULAR\\WebSite Project\\husshussAPIBack\\Controllers\\UserController.cs",
+              "DocumentMoniker": "D:\\Area_51\\Formation\\ANGULAR\\WebSite Project\\Influencers_backend\\husshussAPIBack\\Controllers\\UserController.cs",
               "RelativeDocumentMoniker": "Controllers\\UserController.cs",
-              "ToolTip": "D:\\Area_51\\Formation\\ANGULAR\\WebSite Project\\husshussAPIBack\\Controllers\\UserController.cs",
+              "ToolTip": "D:\\Area_51\\Formation\\ANGULAR\\WebSite Project\\Influencers_backend\\husshussAPIBack\\Controllers\\UserController.cs",
               "RelativeToolTip": "Controllers\\UserController.cs",
-              "ViewState": "AgIAABgAAAAAAAAAAAAQwCAAAAANAAAAAAAAAA==",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAuwBUAAAAlAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-06T09:14:23.702Z",
               "EditorCaption": ""

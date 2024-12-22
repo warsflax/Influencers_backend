@@ -16,6 +16,33 @@ namespace husshussAPIBack.Controllers
             _context = context;
         }
 
+        [HttpPost("inflencers")]
+        public async Task<IActionResult> RegisterInfluencer( Influencer influencer)
+        {
+            // Vérifier si l'email est présent dans la requête
+            if (string.IsNullOrEmpty(influencer.User?.Email))
+            {
+                return BadRequest(new { message = "Email requis pour associer l'utilisateur." });
+            }
+
+            // Récupérer l'utilisateur associé à l'email
+            var user = await _context.Users.FirstOrDefaultAsync(u => u.Email == influencer.User.Email);
+            if (user == null)
+            {
+                return NotFound(new { message = "Utilisateur introuvable avec cet email." });
+            }
+
+            // Associer l'ID utilisateur à l'influenceur
+            influencer.UserID = user.UserID;
+
+            // Ajouter l'influenceur dans la base de données
+            _context.Influencers.Add(influencer);
+            await _context.SaveChangesAsync();
+
+            return Ok(new { message = "Influenceur enregistré avec succès." });
+        }
+    
+
         [HttpPost("register")]
         public async Task<IActionResult> Register(User user)
         {

@@ -14,7 +14,8 @@ namespace husshussAPIBack.Models
         public DateTime DateJoined { get; set; }
         public string Email { get; set; }
     public string Password { get; set; }
-  
+          public ICollection<Influencer>? Influencers { get; set; }
+
 
     //public ICollection<Message> SentMessages { get; set; }
     //public ICollection<Message> ReceivedMessages { get; set; }

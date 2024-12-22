@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Area_51\\Formation\\ANGULAR\\WebSite Project\\husshussAPIBack\\husshussAPIBack.csproj": {}
+    "D:\\Area_51\\Business\\Influenceur Project\\Influencers_backend\\husshussAPIBack\\husshussAPIBack.csproj": {}
   },
   "projects": {
-    "D:\\Area_51\\Formation\\ANGULAR\\WebSite Project\\husshussAPIBack\\husshussAPIBack.csproj": {
+    "D:\\Area_51\\Business\\Influenceur Project\\Influencers_backend\\husshussAPIBack\\husshussAPIBack.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Area_51\\Formation\\ANGULAR\\WebSite Project\\husshussAPIBack\\husshussAPIBack.csproj",
+        "projectUniqueName": "D:\\Area_51\\Business\\Influenceur Project\\Influencers_backend\\husshussAPIBack\\husshussAPIBack.csproj",
         "projectName": "husshussAPIBack",
-        "projectPath": "D:\\Area_51\\Formation\\ANGULAR\\WebSite Project\\husshussAPIBack\\husshussAPIBack.csproj",
+        "projectPath": "D:\\Area_51\\Business\\Influenceur Project\\Influencers_backend\\husshussAPIBack\\husshussAPIBack.csproj",
         "packagesPath": "C:\\Users\\hussa\\.nuget\\packages\\",
-        "outputPath": "D:\\Area_51\\Formation\\ANGULAR\\WebSite Project\\husshussAPIBack\\obj\\",
+        "outputPath": "D:\\Area_51\\Business\\Influenceur Project\\Influencers_backend\\husshussAPIBack\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
